@@ -1,3 +1,3 @@
 # Sınıf Diyagramı
 
-![Sınıf Diyagramı](Downloads/UniverstieYonetimSistemi.png)
+![Sınıf Diyagramı](UniverstieYonetimSistemi.png)
