@@ -26,4 +26,21 @@
     - `int ExperienceLevel` (Deneyim seviyesi)
  - ### İlişki:
     - Bir pilot, bir havayolu şirketine bağlıdır.
-### 2.4.Flight (Uçuş) 
+### 2.4.Flight (Uçuş)
+ - ### Nitlekikler:
+    - `string FlightID` (Uçuş kimliği)
+    - `Airport DepartureAirport` (Kalkış havaalanı)
+    - `Airport ArrivalAirport` (Varış havaalanı)
+    - `DateTime DepartureTime` (Kalkış saati)
+    - `DateTime ArrivalTime` (Varış saati)
+ - ### İlişkiler:
+    - Bir uçuş, bir uçak tarafından gerçekleştirilir.
+    - Her uçuşta bir kaptan ve bir yardımcı pilot bulunur.
+### 2.5.Airport (Havaalanı)
+ - ### Nitlekikler:
+    - `string AirportID` (Havaalanı kimliği)
+    - `string Name` (Havaalanı adı)
+ -  ### İlişki:
+    - Havaalanı uçuşlarını kalkış ve iniş yerledridir.
+
+![Sınıf Diyragramı:](sinifdiyagrami.png) 
