@@ -43,4 +43,4 @@
  -  ### İlişki:
     - Havaalanı uçuşlarını kalkış ve iniş yerledridir.
 
-![Sınıf Diyragramı:](sinifdiyagrami.png) 
+![Sınıf Diyragramı:](sinifDiyagrami.png) 
