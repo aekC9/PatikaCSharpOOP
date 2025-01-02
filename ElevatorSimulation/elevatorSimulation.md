@@ -10,7 +10,7 @@
      8. **RandomNumberGenerator**:Rastgele yolcu ve kat bilgilerini üretir.
      
 ## Sınıf Diyagramı
-![Elevator Diyagram](elevatorDiyagram.png)
+![Elevator Diyagram](elevatorSimulation.png)
 
 ## Açıklamalar
   ### 1.Building:
