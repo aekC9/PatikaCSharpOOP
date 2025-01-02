@@ -42,5 +42,5 @@
     - `string Name` (Havaalanı adı)
  -  ### İlişki:
     - Havaalanı uçuşlarını kalkış ve iniş yerledridir.
-
+## 3.Sınıf diyagramı:
 ![Sınıf Diyragramı:](sinifDiyagrami.png) 
